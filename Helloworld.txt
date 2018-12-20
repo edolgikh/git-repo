@@ -1,6 +1,4 @@
 Print("Hello world!!!");
-<<<<<<< HEAD
 Print("Hello everybody");
-=======
 Print("Hello");
->>>>>>> master
+
